@@ -23,6 +23,9 @@ package-lock.json
 .DS_Store
 
 docs
-texs
+# LaTeX CV: ignore local build tree except source + PDF
+texs/*
+!texs/CV.tex
+!texs/CV.pdf
 
 *.log

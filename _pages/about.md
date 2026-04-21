@@ -59,7 +59,7 @@ More info about configuring Academic Pages can be found in [the guide](https://a
 
 <!-- ## About Me -->
 
-I am currently a first-year Ph.D. student at [Global College, Shanghai Jiao Tong University (SJTU)](https://gc.sjtu.edu.cn/), advised by Prof. [Dezhi Zhou](https://gc.sjtu.edu.cn/about/faculty-staff/faculty-directory/faculty-detail/25040/). My research focuses on AI for Science. I received my B.S. in Information and Computational Science (Mathematics) with a minor in Artificial Intelligence from Nanjing University of Science and Technology (2021-2025), where I worked on Remote Sensing Image Unmixing under the supervision of Prof. Hongyi Liu. From January to March 2024, I was a visiting student at [AI Industry Research (AIR), Tsinghua University](https://air.tsinghua.edu.cn/), supervised by Prof. [Yan Wang](https://yanwang202199.github.io/). Since January 2025, I have been a visiting student at the [School of Engineering, Westlake University](https://engineering.westlake.edu.cn/), working on AI for Science and Generative AI under the supervision of Prof. [Tailin Wu](https://tailin.org/) and co-supervised by Prof. [Long Wei](https://longweizju.github.io/).
+I am currently a first-year Ph.D. student at [Global College, Shanghai Jiao Tong University (SJTU)](https://gc.sjtu.edu.cn/), advised by Prof. [Dezhi Zhou](https://gc.sjtu.edu.cn/about/faculty-staff/faculty-directory/faculty-detail/25040/). My research focuses on AI for Science. I received my B.S. in Information and Computational Science (Mathematics) with a minor in Artificial Intelligence (double degree) from Nanjing University of Science and Technology (2021-2025), where I worked on Remote Sensing Image Unmixing under the supervision of Prof. Hongyi Liu. From January to March 2024, I was a visiting student at [AI Industry Research (AIR), Tsinghua University](https://air.tsinghua.edu.cn/), supervised by Prof. [Yan Wang](https://yanwang202199.github.io/). Since January 2025, I have been a visiting student at the [School of Engineering, Westlake University](https://engineering.westlake.edu.cn/), working on AI for Science and Generative AI under the supervision of Prof. [Tailin Wu](https://tailin.org/) and co-supervised by Prof. [Long Wei](https://longweizju.github.io/).
 
 My research interests lie at the intersection of artificial intelligence and scientific computing. I am particularly interested in AI for Science, where I develop machine learning methods for scientific computing with applications in simulation, control, and design. My work aims to bridge the gap between AI algorithms and real-world scientific problems, enabling more efficient and accurate computational modeling across various scientific domains. I am also interested in Generative AI, exploring the theory and applications of generative models with a primary focus on diffusion and flow-based approaches.
 
@@ -72,7 +72,7 @@ My research interests lie at the intersection of artificial intelligence and sci
   <div style="flex: 1; line-height: 1.5; font-size: 0.9em;">
     <strong style="font-size: 0.95em; display: block; margin-bottom: 0.4em;">FluidZero: Mastering Diverse Tasks in Fluid Systems through a Single Generative Model</strong>
     <div style="margin-bottom: 0.4em; color: #555;">Haodong Feng*, <strong>Haoren Zheng*</strong>, Peiyan Hu, Hongyuan Liu, Chenglei Yu, Long Wei, Ruiqi Feng, Jinlong Duan, Dixia Fan, Tailin Wu</div>
-    <div style="margin-bottom: 0.4em; color: #666; font-style: italic;">Submitted to Nature Machine Intelligence, 2025</div>
+    <div style="margin-bottom: 0.4em; color: #666; font-style: italic;">Submitted to Physical Review X Intelligence, 2026</div>
     <div style="margin-top: 0.5em;"><a href="https://assets-eu.researchsquare.com/files/rs-6881567/v1/63e5e81e0d8b6c9944a0c58d.pdf" style="margin-right: 1em;">Paper</a> <a href="https://github.com/AI4Science-WestlakeU/FluidZero">Code</a></div>
   </div>
 </div>
@@ -84,8 +84,8 @@ My research interests lie at the intersection of artificial intelligence and sci
   <div style="flex: 1; line-height: 1.5; font-size: 0.9em;">
     <strong style="font-size: 0.95em; display: block; margin-bottom: 0.4em;">GenCP: Towards Generative Modeling Paradigm of Coupled physics with Application to Fluid-Structure Interaction</strong>
     <div style="margin-bottom: 0.4em; color: #555;">Tianrun Gao*, <strong>Haoren Zheng*</strong>, Wenhao Deng*, Haodong Feng, Tao Zhang, Ruiqi Feng, Qianyi Chen, Tailin Wu</div>
-    <div style="margin-bottom: 0.4em; color: #666; font-style: italic;">Submitted to International Conference on Learning Representations (ICLR), 2026</div>
-    <!-- <div style="margin-top: 0.5em;"><a href="paper_link_here" style="margin-right: 1em;">Paper</a> <a href="code_link_here">Code</a></div> -->
+    <div style="margin-bottom: 0.4em; color: #666; font-style: italic;">Accepted at International Conference on Learning Representations (ICLR), 2026 (poster)</div>
+    <div style="margin-top: 0.5em;"><a href="https://arxiv.org/abs/2601.19541" style="margin-right: 1em;">Paper</a> <a href="https://github.com/AI4Science-WestlakeU/GenCP">Code</a></div>
   </div>
 </div>
 
@@ -108,7 +108,7 @@ My research interests lie at the intersection of artificial intelligence and sci
   <div style="flex: 1; line-height: 1.5; font-size: 0.9em;">
     <strong style="font-size: 0.95em; display: block; margin-bottom: 0.4em;">Generate reacting flow fields with flow matching neural operators on high-resolution grids</strong>
     <div style="margin-bottom: 0.4em; color: #555;"><strong>Haoren Zheng</strong>, Shibo Gu, Evatt R. Hawkes, Dezhi Zhou, Xingcai Lu</div>
-    <div style="margin-bottom: 0.4em; color: #666; font-style: italic;">Submitted to 41st International Symposium on Combustion (ISOC), 2026</div>
+    <div style="margin-bottom: 0.4em; color: #666; font-style: italic;">41st International Symposium on Combustion (ISOC), 2026 (accepted, poster)</div>
     <!-- <div style="margin-top: 0.5em;"><a href="paper_link_here" style="margin-right: 1em;">Paper</a> <a href="code_link_here">Code</a></div> -->
   </div>
 </div>
@@ -120,7 +120,7 @@ My research interests lie at the intersection of artificial intelligence and sci
   <div style="flex: 1; line-height: 1.5; font-size: 0.9em;">
     <strong style="font-size: 0.95em; display: block; margin-bottom: 0.4em;">RealPDEBench: A Benchmark for Complex Physical Systems with Real-World Data</strong>
     <div style="margin-bottom: 0.4em; color: #555;">Peiyan Hu*, Haodong Feng*, Hongyuan Liu*, Tongtong Yan, Wenhao Deng, Tianrun Gao, Rong Zheng, <strong>Haoren Zheng</strong>, Chenglei Yu, Chuanrui Wang, Kaiwen Li, Zhi-Ming Ma, Dezhi Zhou, Xingcai Lu, Dixia Fan, Tailin Wu</div>
-    <div style="margin-bottom: 0.4em; color: #666; font-style: italic;">Submitted to International Conference on Learning Representations (ICLR), 2026</div>
+    <div style="margin-bottom: 0.4em; color: #666; font-style: italic;">Accepted at International Conference on Learning Representations (ICLR), 2026 (oral)</div>
     <div style="margin-top: 0.5em;">
       <a href="https://arxiv.org/abs/2601.01829v1" style="margin-right: 1em;">Paper</a> 
       <a href="https://github.com/AI4Science-WestlakeU/RealPDEBench" style="margin-right: 1em;">Code</a> 
@@ -136,7 +136,7 @@ My research interests lie at the intersection of artificial intelligence and sci
   <div style="flex: 1; line-height: 1.5; font-size: 0.9em;">
     <strong style="font-size: 0.95em; display: block; margin-bottom: 0.4em;">GGBall: Graph Generative Model on Poincaré Ball</strong>
     <div style="margin-bottom: 0.4em; color: #555;">Tian Bu*, Chuanrui Wang*, Hao Ma, <strong>Haoren Zheng</strong>, Xin Lu, Tailin Wu</div>
-    <div style="margin-bottom: 0.4em; color: #666; font-style: italic;">Submitted to International Conference on Learning Representations (ICLR), 2026</div>
+    <div style="margin-bottom: 0.4em; color: #666; font-style: italic;">Accepted at International Conference on Learning Representations (ICLR), 2026 (poster)</div>
     <div style="margin-top: 0.5em;"><a href="https://arxiv.org/abs/2506.07198" style="margin-right: 1em;">Paper</a> <a href="https://github.com/AI4Science-WestlakeU/GGBall">Code</a></div>
   </div>
 </div>
@@ -153,4 +153,4 @@ Format guide:
 
 ---
 
-*Last updated: January 16, 2026*
+*Last updated: April 21, 2026*
